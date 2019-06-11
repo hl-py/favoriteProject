@@ -1,6 +1,5 @@
-# favoriteProject
+# Restaurant Data
 
-This is code from a favorite project I worked on with data on restaurant employees. 
 Identifying information has been removed or replaced with an *.
 
 1- 
